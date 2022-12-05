@@ -1,0 +1,36 @@
+2022-12-05 10:12:07 [main] INFO  c.t.h.HospitalManagementSystemApplication -
+				Starting HospitalManagementSystemApplication using Java 17.0.1 on DESKTOP-JSFVJA2 with PID 3932 (C:\Users\Admin\Desktop\Hospital Mangement System\hospitalmanagementsystem\target\classes started by Admin in C:\Users\Admin\Desktop\Hospital Mangement System\hospitalmanagementsystem)
+2022-12-05 10:12:07 [main] DEBUG c.t.h.HospitalManagementSystemApplication -
+				Running with Spring Boot v2.7.4, Spring v5.3.23
+2022-12-05 10:12:07 [main] INFO  c.t.h.HospitalManagementSystemApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2022-12-05 10:12:33 [main] INFO  c.t.h.HospitalManagementSystemApplication -
+				Started HospitalManagementSystemApplication in 26.472 seconds (JVM running for 28.542)
+2022-12-05 10:31:40 [main] INFO  c.t.h.HospitalManagementSystemApplication -
+				Starting HospitalManagementSystemApplication using Java 17.0.1 on DESKTOP-JSFVJA2 with PID 8868 (C:\Users\Admin\Desktop\Hospital Mangement System\hospitalmanagementsystem\target\classes started by Admin in C:\Users\Admin\Desktop\Hospital Mangement System\hospitalmanagementsystem)
+2022-12-05 10:31:40 [main] DEBUG c.t.h.HospitalManagementSystemApplication -
+				Running with Spring Boot v2.7.4, Spring v5.3.23
+2022-12-05 10:31:40 [main] INFO  c.t.h.HospitalManagementSystemApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2022-12-05 10:31:50 [main] INFO  c.t.h.HospitalManagementSystemApplication -
+				Started HospitalManagementSystemApplication in 10.841 seconds (JVM running for 14.008)
+2022-12-05 10:34:18 [main] INFO  c.t.h.HospitalManagementSystemApplication -
+				Starting HospitalManagementSystemApplication using Java 17.0.1 on DESKTOP-JSFVJA2 with PID 9128 (C:\Users\Admin\Desktop\Hospital Mangement System\hospitalmanagementsystem\target\classes started by Admin in C:\Users\Admin\Desktop\Hospital Mangement System\hospitalmanagementsystem)
+2022-12-05 10:34:18 [main] DEBUG c.t.h.HospitalManagementSystemApplication -
+				Running with Spring Boot v2.7.4, Spring v5.3.23
+2022-12-05 10:34:18 [main] INFO  c.t.h.HospitalManagementSystemApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2022-12-05 10:34:28 [main] INFO  c.t.h.HospitalManagementSystemApplication -
+				Started HospitalManagementSystemApplication in 10.338 seconds (JVM running for 11.786)
+2022-12-05 10:36:24 [main] INFO  c.t.h.HospitalManagementSystemApplication -
+				Starting HospitalManagementSystemApplication using Java 17.0.1 on DESKTOP-JSFVJA2 with PID 11740 (C:\Users\Admin\Desktop\Hospital Mangement System\hospitalmanagementsystem\target\classes started by Admin in C:\Users\Admin\Desktop\Hospital Mangement System\hospitalmanagementsystem)
+2022-12-05 10:36:24 [main] DEBUG c.t.h.HospitalManagementSystemApplication -
+				Running with Spring Boot v2.7.4, Spring v5.3.23
+2022-12-05 10:36:24 [main] INFO  c.t.h.HospitalManagementSystemApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2022-12-05 10:36:47 [main] INFO  c.t.h.HospitalManagementSystemApplication -
+				Started HospitalManagementSystemApplication in 23.979 seconds (JVM running for 25.527)
+2022-12-05 10:37:50 [http-nio-1234-exec-1] INFO  c.t.h.controller.HospitalController -
+				inside class --> HospitalController ---> method === getHospitalDataById 
+2022-12-05 10:37:50 [http-nio-1234-exec-1] INFO  c.t.h.service.HospitalServiceImpl -
+				inside class --->  HospitalServiceImpl -->method === getHospitalDataById 
